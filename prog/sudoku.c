@@ -19,6 +19,7 @@ int main(){matrice_t m[SIZE][SIZE];
     puts("Merci d'avoir utilise cette application.");
     int s;
     scanf("%d", &s);
+    puts("Fermeture de l'application");
 
     return 0;
 }
